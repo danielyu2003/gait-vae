@@ -1,0 +1,1 @@
+foot speed stride_length step_width cadence
